@@ -1,19 +1,15 @@
 # TopTrump_BackEnd
 
 
-### MVP
-- Cards are shuffled
-- Cards dealt to player and computer
-- Player can click on attribute to play
-- Player and computer card is compared and a winner is shown
+This is the back end for valorant top trumps!
 
-Cards page is under construction!
+Information containing:
+Name,
+Picture,
+Attack value,
+Control value,
+Defence value,
+Frags value,
+Lurk value
 
-### How to run
-In terminal 
-- npm install
-- npm run
-
-(You should also be running back end which you can find here: https://github.com/NadiaA14/TopTrump_BackEnd)
-
-go to http://localhost:3000/ and it should be running
+Run the file and then go to https://github.com/NadiaA14/TopTrumps_FrontEnd to run the front end and see the game in action!
