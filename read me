@@ -1,0 +1,14 @@
+# TopTrump_BackEnd
+
+This is the back end for valorant top trumps!
+
+Information containing:
+Name,
+Picture,
+Attack value,
+Control value,
+Defence value,
+Frags value,
+Lurk value
+
+Run the file and then go to https://github.com/NadiaA14/TopTrumps_FrontEnd to run the front end and see the game in action!
